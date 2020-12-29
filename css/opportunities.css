@@ -1,0 +1,50 @@
+.featurette-divider-5 {
+    border-top: 3px solid rgb(52, 58, 64);
+}
+
+.hammer-image {
+    position: relative;
+    width: 100%;
+    height: 150px;
+    top: -10px;
+}
+
+.tape-image {
+    position: relative;
+    width: 80%;
+    height: 300px;
+    top: -40px;
+}
+
+.quinta-image {
+    position: relative;
+    width: 80%;
+    height: 300px;
+    top: 0px;
+}
+
+.kpombinhas-image {
+    position: relative;
+    width: 80%;
+    height: 300px;
+    top: 0px;
+}
+
+.papi-image,
+.bite-image {
+    position: relative;
+    width: 80%;
+    height: 300px;
+    top: 0px;
+}
+
+.shake-image {
+    position: relative;
+    width: 80%;
+    height: 80%;
+    top: 0px;
+}
+
+.h250 {
+    height: 250px;
+}
